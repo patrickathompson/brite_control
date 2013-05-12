@@ -20,4 +20,4 @@ of briteup.sh to match the value given.
 
 if [ $getbrite -lt 7 ]; then
                    ^
-                   replace value
+                   replace valu
