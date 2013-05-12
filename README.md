@@ -7,6 +7,7 @@ controls for linux.
 
 Uses:
 pkexec /usr/lib/gnome-settings-daemon/gsd-backlight-helper --get-brightness
+
 pkexec /usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness [1-10]
 
 
