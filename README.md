@@ -4,9 +4,9 @@ brite_control
 Bash scripts used to control gnome brightness settings. Intended usage is for keymapping to enable hardware brightness 
 controls for linux.
 
-Uses:
-    pkexec /usr/lib/gnome-settings-daemon/gsd-backlight-helper --get-brightness  
-    pkexec /usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness [1-10]  
+Uses:  
+pkexec /usr/lib/gnome-settings-daemon/gsd-backlight-helper --get-brightness  
+pkexec /usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness [1-10]  
 
 Before implementing, run:  
 
