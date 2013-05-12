@@ -1,7 +1,7 @@
 brite_control
 =============
 
-Bash script used to control gnome brightness settings. Intended usage is for keymapping to enable hardware brightness 
+Bash scripts used to control gnome brightness settings. Intended usage is for keymapping to enable hardware brightness 
 controls for linux.
 
 
@@ -19,5 +19,5 @@ to determine the highest value between 1-10 that your machine uses for the maxim
 of briteup.sh to match the value given.
 
 if [ $getbrite -lt 7 ]; then
-                   ^
-                   replace valu
+                   ^\n
+                   replace value\n
